@@ -1,12 +1,12 @@
 {
-  "name": "NightFall-AFK-BOT",
+  "name": "AFK BOT",
   "bot-account": {
-    "username": "NightFallS2.aternos.me",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
+    "ip": "NightFallS2.aternos.me",
     "port": 25229,
     "version": "",
     "try-creative": false

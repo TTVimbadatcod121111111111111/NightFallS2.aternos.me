@@ -1,9 +1,9 @@
 {
   "name": "AFK BOT",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "AFK BOT",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "NightFallS2.aternos.me",
